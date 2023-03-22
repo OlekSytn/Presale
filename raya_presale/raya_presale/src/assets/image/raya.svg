@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170" height="23" viewBox="0 0 170 23">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 30px;
+        fill: #505fc7;
+        font-family: Roboto;
+      }
+      .cls-2 {
+        fill: #ff78cb;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text id="RAYACANTO" class="cls-1" x="-2" y="22">RAYA<tspan class="cls-2">CANTO</tspan></text>
+</svg>
